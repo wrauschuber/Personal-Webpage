@@ -25,7 +25,12 @@ aside.right {
     width: 25%;
     float: left;
     padding: 10px;
-}
+
+  }
+  
+
+
+
 
 figure {
     margin-top: 10px;
@@ -48,11 +53,15 @@ img.responsive-sidebar {
     height: auto;
 }
 
+
+
+
 #menubar {
     background-color: grey;
     width: 100%;
     overflow: hidden;
 }
+
 
 ul#navlist {
     list-style-type: none;
@@ -86,9 +95,14 @@ ul#navlist {
 }
 
 .logo {
+
     width: 100px;
     height: auto;
     margin-right: 50px; /* Corrected typo '50x' to '50px' */
+
+    width: 100px; 
+    height: auto;
+    margin-right: 50x;
 }
 
 table {
@@ -96,6 +110,7 @@ table {
     border-collapse: collapse;
     margin-bottom: 20px; 
 }
+
 
 th, td {
     border: 1px solid #dddddd;
@@ -109,15 +124,6 @@ th {
 #skills h2 {
     margin-top: 0; 
 }
-
-
-
-
-
-
-
-
-
 
 
 
